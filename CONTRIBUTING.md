@@ -70,5 +70,13 @@ TreJay will evolve through on-chain governance. Major changes to protocol parame
 
 ---
 
+## 📚 Project Documentation
+
+For technical parameters, governance, and whitepaper drafts, see:  
+- [TreJay Docs Repository](https://github.com/trejay-network/docs)  
+- [Organization Overview](https://github.com/trejay-network)  
+
+---
+
 Thank you for helping us build TreJay —  
 **Secure. Sustainable. Global.**
