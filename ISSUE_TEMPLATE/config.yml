@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security disclosure
+    url: https://github.com/trejay-network/trejay-chain/security/policy
+    about: Please report vulnerabilities privately via SECURITY.md (security@trejay.com).
+  - name: Community & questions
+    url: https://t.me/trejaynetwork
+    about: General discussion and Q&A.
